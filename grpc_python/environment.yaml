@@ -1,0 +1,9 @@
+name: grpc
+channels:
+  - conda-forge
+dependencies:
+  - python=3.14
+  - pip
+  - pip:
+      - grpcio==1.80.0
+      - grpcio-tools==1.80.0

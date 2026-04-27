@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Patriots Path, Mendham, NJ 07945, USA",
+    "location": {
+      "latitude": 407838351,
+      "longitude": -746143763
+    }
+  },
+  {
+    "name": "101 New Jersey 10, Whippany, NJ 07981, USA",
+    "location": {
+      "latitude": 408122808,
+      "longitude": -743999179
+    }
+  },
+  {
+    "name": "UQAR Demo Point A",
+    "location": {
+      "latitude": 409146138,
+      "longitude": -746188906
+    }
+  },
+  {
+    "name": "UQAR Demo Point B",
+    "location": {
+      "latitude": 411733222,
+      "longitude": -744228360
+    }
+  }
+]
